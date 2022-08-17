@@ -19,7 +19,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 		['meta', { property: 'og:title', content: 'discord.js Guide' }],
 		['meta', { property: 'og:description', content: 'Imagine a guide... that explores the many possibilities for your discord.js bot.' }],
 		['meta', { property: 'og:type', content: 'website' }],
-		['meta', { property: 'og:url', content: 'https://discordjs.guide/' }],
+		['meta', { property: 'og:url', content: 'https://gns-docs.netlify.app/' }],
 		['meta', { property: 'og:locale', content: 'en_US' }],
 		['meta', { property: 'og:image', content: '/meta-image.png' }],
 	],
