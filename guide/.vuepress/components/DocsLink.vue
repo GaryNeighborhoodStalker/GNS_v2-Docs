@@ -7,7 +7,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 
-const baseURL = 'https://discord.js.org/#/docs';
+const baseURL = 'https://gns-docs.netlify.app/';
 const docsSections = ['main', 'collection', 'rpc'];
 const docsPathRegex = /\w+\/(\w+)(?:\?scrollTo=(.+))?/;
 
