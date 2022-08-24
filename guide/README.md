@@ -1,5 +1,9 @@
 # GNS Introduction
 
+::: tip
+This website is under construction.
+:::
+
 If you're reading this, it probably means you want to learn how to make a bot with discord.js. Awesome! You've come to the right place.
 This guide will teach you things such as:
 - How to get a bot [up and running](/preparations/) from scratch;
@@ -28,6 +32,6 @@ If you don't know JavaScript but would like to learn about it, here are a few li
 
 Take your pick, learn some JavaScript, and once you feel like you're confident enough to make a bot, come back and get started!
 
-<a href="https://www.netlify.com">
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/GaryNeighborhoodStalker/GNS_v2-Docs">
 	<img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
 </a>
