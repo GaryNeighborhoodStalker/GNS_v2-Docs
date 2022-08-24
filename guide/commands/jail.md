@@ -2,4 +2,6 @@
 
 Put a person in jail
 
-![Example](img/example_jail.png)
+## Example
+
+![Example](./img/example_jail.png)
