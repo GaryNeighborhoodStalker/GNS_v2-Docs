@@ -7,10 +7,15 @@ export default {
 				'/whats-new.md',
 			],
 		}, {
-			text: 'Comands',
+			text: 'Commands',
 			children: [
 				'/commands/',
 				'/commands/help.md',
+				'/commands/admin.md',
+				'/commands/rank.md',
+				'/commands/leaderboard.md',
+				'/commands/bed.md',
+				'/commands/jail.md',
 			],
 		},
 	],

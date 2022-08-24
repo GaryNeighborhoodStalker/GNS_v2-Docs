@@ -9,15 +9,15 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 	templateSSR: path.join(__dirname, 'templates', 'index.ssr.html'),
 	lang: 'en-US',
 	title: 'GNS_v2-Docs',
-	description: 'Imagine a guide... that explores the many possibilities for your discord.js bot.',
+	description: 'Gary the Neighborhood Stalker Documentation - Learn about commands, future plans, etc.',
 	head: [
 		['meta', { charset: 'utf-8' }],
 		['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
 		['link', { rel: 'icon', href: '/favicon.png' }],
 		['meta', { name: 'theme-color', content: '#3eaf7c' }],
 		['meta', { name: 'twitter:card', content: 'summary' }],
-		['meta', { property: 'og:title', content: 'discord.js Guide' }],
-		['meta', { property: 'og:description', content: 'Imagine a guide... that explores the many possibilities for your discord.js bot.' }],
+		['meta', { property: 'og:title', content: 'GNS_v2-Docs' }],
+		['meta', { property: 'og:description', content: 'Gary the Neighborhood Stalker Documentation - Learn about commands, future plans, etc.' }],
 		['meta', { property: 'og:type', content: 'website' }],
 		['meta', { property: 'og:url', content: 'https://gns-docs.netlify.app/' }],
 		['meta', { property: 'og:locale', content: 'en_US' }],
@@ -35,7 +35,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 		navbar: [
 			{
 				text: 'Invite Bot',
-				link: 'https://discord.js.org/#/docs/main/stable/general/welcome',
+				link: 'https://invite.garybot.ml/',
 			},
 		],
 		themePlugins: {
@@ -54,7 +54,7 @@ if (NODE_ENV === 'production' && ALGOLIA_DOCSEARCH_API_KEY && GOOGLE_ANALYTICS_I
 			{
 				appId: ALGOLIA_DOCSEARCH_APP_ID,
 				apiKey: ALGOLIA_DOCSEARCH_API_KEY,
-				indexName: 'discordjs',
+				indexName: 'GNS_v2-Docs',
 				placeholder: 'Search guide',
 			},
 		],
