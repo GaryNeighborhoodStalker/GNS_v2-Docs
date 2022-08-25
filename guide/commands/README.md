@@ -7,3 +7,4 @@
 - [Jail](jail.html)
 - [Change My Mind](changemymind.html)
 - [Facepalm](facepalm.html)
+- [Merge](merge.html)

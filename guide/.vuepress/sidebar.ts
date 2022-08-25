@@ -17,7 +17,8 @@ export default {
 				'/commands/bed.md',
 				'/commands/jail.md',
 				'/commands/changemymind.md',
-				'/commands/facepalm.md'
+				'/commands/facepalm.md',
+				'/commands/merge.md'
 			],
 		},
 	],
