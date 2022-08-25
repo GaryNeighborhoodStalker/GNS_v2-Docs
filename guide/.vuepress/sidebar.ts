@@ -18,7 +18,8 @@ export default {
 				'/commands/jail.md',
 				'/commands/changemymind.md',
 				'/commands/facepalm.md',
-				'/commands/merge.md'
+				'/commands/merge.md',
+				'/commands/rip.md'
 			],
 		},
 	],

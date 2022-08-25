@@ -8,3 +8,4 @@
 - [Change My Mind](changemymind.html)
 - [Facepalm](facepalm.html)
 - [Merge](merge.html)
+- [Rip](rip.html)
