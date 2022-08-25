@@ -16,7 +16,8 @@ export default {
 				'/commands/leaderboard.md',
 				'/commands/bed.md',
 				'/commands/jail.md',
-				'/commands/changemymind.md'
+				'/commands/changemymind.md',
+				'/commands/facepalm.md'
 			],
 		},
 	],
