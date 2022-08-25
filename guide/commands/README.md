@@ -5,3 +5,5 @@
 - [Leaderboard](leaderboard.html)
 - [Bed](leaderboard.html)
 - [Jail](jail.html)
+- [Change My Mind](changemymind.html)
+- [Facepalm](facepalm.html)
