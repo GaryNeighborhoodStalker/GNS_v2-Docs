@@ -9,3 +9,4 @@
 - [Facepalm](facepalm.html)
 - [Merge](merge.html)
 - [Rip](rip.html)
+- [Slap](slap.html)
