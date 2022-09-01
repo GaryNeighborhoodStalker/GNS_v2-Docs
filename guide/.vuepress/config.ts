@@ -14,7 +14,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 		['meta', { charset: 'utf-8' }],
 		['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
 		['link', { rel: 'icon', href: '/favicon.png' }],
-		['meta', { name: 'theme-color', content: '#3eaf7c' }],
+		['meta', { name: 'theme-color', content: '#4752c4' }],
 		['meta', { name: 'twitter:card', content: 'summary' }],
 		['meta', { property: 'og:title', content: 'GNS_v2-Docs' }],
 		['meta', { property: 'og:description', content: 'Gary the Neighborhood Stalker Documentation - Learn about commands, future plans, etc.' }],
