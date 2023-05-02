@@ -1,0 +1,1 @@
+const e={key:"v-24cc5ac6",path:"/commands/bed.html",title:"Bed",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],filePathRelative:"commands/bed.md",git:{updatedTime:1683054763e3}};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-b5c0c864",path:"/commands/",title:"Commands List",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"commands/README.md",git:{updatedTime:1683054763e3}};export{e as data};

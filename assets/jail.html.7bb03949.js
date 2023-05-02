@@ -1,0 +1,1 @@
+const e={key:"v-331a971e",path:"/commands/jail.html",title:"Jail",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],filePathRelative:"commands/jail.md",git:{updatedTime:1683054763e3}};export{e as data};

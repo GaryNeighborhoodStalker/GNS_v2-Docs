@@ -1,0 +1,1 @@
+const e={key:"v-65c1e846",path:"/commands/changemymind.html",title:"Change My Mind",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],filePathRelative:"commands/changemymind.md",git:{updatedTime:1683054763e3}};export{e as data};

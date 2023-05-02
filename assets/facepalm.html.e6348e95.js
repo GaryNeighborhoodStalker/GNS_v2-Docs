@@ -1,0 +1,1 @@
+const e={key:"v-1ed8921c",path:"/commands/facepalm.html",title:"Facepalm",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],filePathRelative:"commands/facepalm.md",git:{updatedTime:1683054763e3}};export{e as data};
