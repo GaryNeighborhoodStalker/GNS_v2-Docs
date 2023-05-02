@@ -1,0 +1,1 @@
+import{o as a,c as e,F as r,a as d,d as o}from"./app.1f5a0066.js";const n={},s=d("h1",{id:"leaderboard",tabindex:"-1"},[d("a",{class:"header-anchor",href:"#leaderboard","aria-hidden":"true"},"#"),o(" Leaderboard")],-1),t=d("p",null,"See the Leaderboard",-1);n.render=function(d,o){return a(),e(r,null,[s,t],64)};export{n as default};

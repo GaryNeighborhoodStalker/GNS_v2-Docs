@@ -1,0 +1,1 @@
+const e={key:"v-19addcfa",path:"/commands/slap.html",title:"Slap",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],filePathRelative:"commands/slap.md",git:{updatedTime:1683054957e3}};export{e as data};

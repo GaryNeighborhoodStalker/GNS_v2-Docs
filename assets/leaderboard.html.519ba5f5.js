@@ -1,0 +1,1 @@
+const e={key:"v-637a3f4a",path:"/commands/leaderboard.html",title:"Leaderboard",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"commands/leaderboard.md",git:{updatedTime:1683054957e3}};export{e as data};

@@ -1,1 +1,0 @@
-const e={key:"v-e13f07c2",path:"/commands/rank.html",title:"Rank Card",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],filePathRelative:"commands/rank.md",git:{updatedTime:1683054763e3}};export{e as data};

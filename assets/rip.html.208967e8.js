@@ -1,1 +1,0 @@
-const e={key:"v-ea1b85a4",path:"/commands/rip.html",title:"Rip",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Example",slug:"example",children:[]}],filePathRelative:"commands/rip.md",git:{updatedTime:1683054763e3}};export{e as data};
