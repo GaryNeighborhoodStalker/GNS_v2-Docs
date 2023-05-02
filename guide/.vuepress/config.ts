@@ -8,6 +8,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 	templateDev: path.join(__dirname, 'templates', 'index.dev.html'),
 	templateSSR: path.join(__dirname, 'templates', 'index.ssr.html'),
 	lang: 'en-US',
+	base: '/GNS_v2-Docs/',
 	title: 'GNS_v2-Docs',
 	description: 'Gary the Neighborhood Stalker Documentation - Learn about commands, future plans, etc.',
 	head: [
@@ -35,7 +36,7 @@ const config = defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
 		navbar: [
 			{
 				text: 'Invite Bot',
-				link: 'https://invite.garybot.ml/',
+				link: 'https://garyneighborhoodstalker.github.io/GNSInvite/',
 			},
 		],
 		themePlugins: {
